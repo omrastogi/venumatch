@@ -1,0 +1,229 @@
+{
+  "venues": [
+    {
+      "id": 1,
+      "name": "The Vault",
+      "neighborhood": "Downtown",
+      "capacity": 20,
+      "avg_cost_pp": 95,
+      "specialty": "Intimate fine dining",
+      "description": "A private dining room built inside a converted 1920s bank vault in the heart of Downtown Boston. Known for chef-driven American cuisine and a candlelit atmosphere that feels completely removed from the street above. No walk-ins \u2014 exclusively event bookings."
+    },
+    {
+      "id": 2,
+      "name": "The Rooftop at Envoy",
+      "neighborhood": "Seaport",
+      "capacity": 150,
+      "avg_cost_pp": 55,
+      "specialty": "Rooftop cocktails & harbor views",
+      "description": "An open-air rooftop bar perched above the Envoy Hotel with panoramic views of Boston Harbor and the Seaport skyline. Serves craft cocktails and shareable plates, with a retractable canopy for weather. Popular for private buyouts with a waterfront backdrop."
+    },
+    {
+      "id": 3,
+      "name": "Spoke Wine Bar",
+      "neighborhood": "South End",
+      "capacity": 30,
+      "avg_cost_pp": 60,
+      "specialty": "Natural wine & small plates",
+      "description": "A neighborhood wine bar in the South End specializing in natural and low-intervention wines from small producers. The space is deliberately quiet and intimate, with a communal table and a small private nook that seats up to 12. Best for groups who want conversation over spectacle."
+    },
+    {
+      "id": 4,
+      "name": "Lolita Back Bay",
+      "neighborhood": "Back Bay",
+      "capacity": 60,
+      "avg_cost_pp": 65,
+      "specialty": "Creative Mexican cocktail lounge",
+      "description": "A dimly lit Mexican cocktail lounge in Back Bay with a reputation for inventive margaritas and an atmosphere that skews dark and seductive. Has a private section in the back that can be cordoned off for groups. The food is secondary to the experience here."
+    },
+    {
+      "id": 5,
+      "name": "Backbar",
+      "neighborhood": "Union Square",
+      "capacity": 45,
+      "avg_cost_pp": 40,
+      "specialty": "Speakeasy craft cocktails",
+      "description": "A genuine speakeasy tucked behind an unmarked door in Somerville's Union Square. No sign outside. Known among locals for some of the best craft cocktails in the city, a rotating seasonal menu, and a room that feels like a secret. Unpretentious, intimate, and hard to find on purpose."
+    },
+    {
+      "id": 6,
+      "name": "The Fenway Room",
+      "neighborhood": "Fenway",
+      "capacity": 100,
+      "avg_cost_pp": 120,
+      "specialty": "Private events with stadium views",
+      "description": "A private event space inside Fenway Park with direct views of the field through floor-to-ceiling windows. Available for exclusive bookings only. Fully catered with flexible menu packages. The most Boston venue in Boston \u2014 clients book it for the address as much as the room."
+    },
+    {
+      "id": 7,
+      "name": "Asta",
+      "neighborhood": "Back Bay",
+      "capacity": 16,
+      "avg_cost_pp": 175,
+      "specialty": "Chef's counter tasting menu",
+      "description": "One of Boston's most intimate dining experiences \u2014 a chef's counter where a single seating of up to 16 guests watches their meal prepared live over several courses. No substitutions, no outside beverages, no phones at the table. Reserved for guests who want food to be the entire event."
+    },
+    {
+      "id": 8,
+      "name": "Eastern Standard",
+      "neighborhood": "Kenmore",
+      "capacity": 80,
+      "avg_cost_pp": 70,
+      "specialty": "Classic American brasserie",
+      "description": "A Kenmore Square institution with a long mahogany bar, a private dining room in the back, and a menu of reliable New American classics. The energy is lively without being loud. The kind of place parents from out of town recognize as a classic Boston destination. Full bar, strong wine list."
+    },
+    {
+      "id": 9,
+      "name": "GrandTen Distillery",
+      "neighborhood": "S. Boston",
+      "capacity": 200,
+      "avg_cost_pp": 35,
+      "specialty": "Craft spirits & industrial events",
+      "description": "A working craft distillery in South Boston with a large, open event floor that can be configured for almost any format. On-site spirits available for custom bars. The industrial aesthetic \u2014 exposed brick, steel, barrels \u2014 does most of the design work for you."
+    },
+    {
+      "id": 10,
+      "name": "Haley.Henry",
+      "neighborhood": "Downtown",
+      "capacity": 35,
+      "avg_cost_pp": 55,
+      "specialty": "Low-key natural wine bar",
+      "description": "A small, almost hidden wine bar near Downtown Crossing with a rotating list of natural wines and a standing-room-only format. Regulars treat it like a neighborhood secret. Good for small groups who want quality over ambiance, or a pre-dinner gathering before moving somewhere else."
+    },
+    {
+      "id": 11,
+      "name": "Saltie Girl",
+      "neighborhood": "Back Bay",
+      "capacity": 28,
+      "avg_cost_pp": 110,
+      "specialty": "Intimate raw bar & seafood",
+      "description": "A tiny Back Bay seafood bar with a raw bar counter and a tight reservation list. Serves exceptional oysters, tinned fish, and an outstanding wine list in a space so small that every table feels like a private experience. Best for groups of 8 or fewer who appreciate food above everything else."
+    },
+    {
+      "id": 12,
+      "name": "The Beehive",
+      "neighborhood": "South End",
+      "capacity": 100,
+      "avg_cost_pp": 65,
+      "specialty": "Jazz supper club",
+      "description": "A South End supper club with live jazz most nights, a meandering layout across multiple rooms, and a menu that ranges from small plates to full entrees. The energy is creative and artsy. Private room available for buyouts."
+    },
+    {
+      "id": 13,
+      "name": "Committee",
+      "neighborhood": "Seaport",
+      "capacity": 100,
+      "avg_cost_pp": 75,
+      "specialty": "Modern Greek, Seaport",
+      "description": "A modern Greek restaurant in the Seaport with a rooftop terrace, a private dining room, and a menu built around mezze and shared plates. The Seaport location means easy access \u2014 a practical choice for groups coming from outside the city."
+    },
+    {
+      "id": 14,
+      "name": "Cafe ArtScience",
+      "neighborhood": "Cambridge",
+      "capacity": 100,
+      "avg_cost_pp": 85,
+      "specialty": "Science-themed cocktail experience",
+      "description": "A Cambridge cocktail bar where every drink is built around a scientific concept. The space doubles as an event venue and is a genuine conversation starter. Mostly booked for corporate events and product launches where the host wants to make a statement."
+    },
+    {
+      "id": 15,
+      "name": "Tiger Mama",
+      "neighborhood": "Fenway",
+      "capacity": 80,
+      "avg_cost_pp": 60,
+      "specialty": "Southeast Asian, high energy",
+      "description": "A high-energy Southeast Asian restaurant in the Fenway neighborhood with a private room and a full bar program. The room is louder than most. Ideal for birthday dinners and bachelorette parties where the energy of the room is part of the plan."
+    },
+    {
+      "id": 16,
+      "name": "Row 34",
+      "neighborhood": "Fort Point",
+      "capacity": 60,
+      "avg_cost_pp": 70,
+      "specialty": "Oyster bar & craft beer",
+      "description": "A Fort Point oyster bar with a nautical, no-frills interior, an exceptional selection of craft beers, and a menu built around raw bar and straightforward seafood. Has a private dining room. More casual in tone than the price point suggests."
+    },
+    {
+      "id": 17,
+      "name": "Brewer's Fork",
+      "neighborhood": "Charlestown",
+      "capacity": 60,
+      "avg_cost_pp": 35,
+      "specialty": "Craft brewery, wood-fired pizza",
+      "description": "A Charlestown craft brewery with a wood-fired pizza oven and a private section for groups. The atmosphere is casual, communal, and loud. Best suited for team events and casual birthday parties where accessibility matters more than the setting."
+    },
+    {
+      "id": 18,
+      "name": "Harvest",
+      "neighborhood": "Cambridge",
+      "capacity": 60,
+      "avg_cost_pp": 95,
+      "specialty": "Classic New England fine dining",
+      "description": "A Harvard Square institution serving seasonal New American cuisine in a warm, classic New England interior. Has a garden patio and a private dining room that seats up to 20. The service is formal without being stiff. A reliable choice when the occasion is genuinely special."
+    },
+    {
+      "id": 19,
+      "name": "Puritan & Company",
+      "neighborhood": "Inman Square",
+      "capacity": 50,
+      "avg_cost_pp": 70,
+      "specialty": "Chef-driven seasonal American",
+      "description": "A chef-driven restaurant in Cambridge's Inman Square with a private room, a strong cocktail program, and a seasonal menu. Less well-known than comparable Back Bay restaurants, which is part of the appeal. Understated in every direction."
+    },
+    {
+      "id": 20,
+      "name": "Tres Gatos",
+      "neighborhood": "Jamaica Plain",
+      "capacity": 45,
+      "avg_cost_pp": 40,
+      "specialty": "Spanish tapas & vinyl bar",
+      "description": "A Jamaica Plain spot combining a tapas bar with a vinyl record store and a small bookshop. The food is good and affordable, the room is warm. Best for groups who want character over prestige."
+    },
+    {
+      "id": 21,
+      "name": "Deep Ellum",
+      "neighborhood": "Allston",
+      "capacity": 200,
+      "avg_cost_pp": 20,
+      "specialty": "Dive bar, live music, large groups",
+      "description": "An Allston bar with cheap drinks, live music most weekends, and a crowd that leans young and creative. Standing room for up to 200. The right choice when budget is tight, the group is big, and nobody is expecting a memorable meal."
+    },
+    {
+      "id": 22,
+      "name": "Elephant Walk",
+      "neighborhood": "Back Bay",
+      "capacity": 60,
+      "avg_cost_pp": 70,
+      "specialty": "French-Cambodian fusion",
+      "description": "A Back Bay restaurant serving French-Cambodian fusion cuisine that has been a Boston original for decades. The combination is unusual and memorable. Has a private room. A genuine differentiator for hosts who want their choice to start a conversation."
+    },
+    {
+      "id": 23,
+      "name": "Ostra",
+      "neighborhood": "Back Bay",
+      "capacity": 50,
+      "avg_cost_pp": 105,
+      "specialty": "Mediterranean seafood, upscale",
+      "description": "An upscale Mediterranean seafood restaurant in Back Bay with a private dining room and service that matches the price point. Reliably excellent \u2014 a safe choice for client dinners and special occasions where the food has to be right."
+    },
+    {
+      "id": 24,
+      "name": "The Sinclair",
+      "neighborhood": "Harvard Sq.",
+      "capacity": 180,
+      "avg_cost_pp": 30,
+      "specialty": "Music venue with private mezzanine",
+      "description": "A Harvard Square music venue with a private mezzanine level for event buyouts. Best for launch events, large birthday parties, and groups who want the feeling of being somewhere with its own identity."
+    },
+    {
+      "id": 25,
+      "name": "COJE Private Club",
+      "neighborhood": "South End",
+      "capacity": 120,
+      "avg_cost_pp": 130,
+      "specialty": "Members club, private events",
+      "description": "A South End members club available for private event buyouts. Every surface is designed in a way that makes photography easy and guests feel like they have been let into somewhere exclusive. Full AV, in-house catering, and an event team. The most production-ready private venue on this list."
+    }
+  ]
+}
