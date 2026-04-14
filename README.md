@@ -59,7 +59,7 @@ The query is scoped to passing IDs at the ANN index level. `k` results are drawn
 
 ```bash
 # 1. Clone
-git clone <repo-url>
+git clone https://github.com/omrastogi/venumatch.git
 cd venumatch
 
 # 2. Create environment
