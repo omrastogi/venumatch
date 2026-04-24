@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+.env
+.git
+.gitignore
+results/
+data/chroma_db/
+venumatch-ui/
+*.md
